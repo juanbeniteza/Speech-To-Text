@@ -1,0 +1,6 @@
+
+Pydub
+SpeechRecognition
+gTTS
+PyQt4
+
